@@ -1,0 +1,113 @@
+.container, .container-fluid{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.navbar-brand img{
+    max-height: 80px;
+}
+
+.carousel{
+    margin-top: 20px !important;
+}
+.nav.nav-pills .nav-link{
+    font-size: 16px;
+    color:  !important;
+    padding: 8px !important;
+}
+.carousel-inner .carousel-item img{
+    min-height: 575px !important;
+    max-height: 580px !important;
+    object-fit: cover;
+    
+}
+.about-box img{
+    max-height: 380px;
+    width: 100% !important;
+}
+
+#features .box img{
+    width: 100%;
+}
+ul{
+    list-style: none outside none;
+    padding-left: 0;
+    margin: 0;
+}
+.item{
+    margin-bottom: 60px;
+
+}
+.content-slider img {
+    height: auto;
+    max-width: 100%;
+}
+
+.slider{
+    width: 260px;
+    height: 100vh;
+    position: fixed;
+    background: #56CCF2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    z-index: 2;
+}
+
+.slider-head .slider-img-user{
+   width: 64px;
+   height: 64px;
+   border-radius: 50%; 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+.slider-body .nav .nav-link{
+    color: white;
+    border-radius: 4px;
+}
+
+.slider-body .nav .nav-link:hover{
+    padding-left: 24px!important;
+    background-color: rgba(255, 230, 230, 0.2);
+}
+
+.table img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+.main-pages{
+    top: 50px;
+    margin-left: 260px;
+    height: auto;
+    padding: 14px 8px 14px 8px;
+    background-color: rgb(230,230,230);
+    z-index: 1;
+}
+
+.main-page .bungkus{
+    border-left: 10px solid blue;
+    background-color: white;
+}
+
+.bungkus .icon1{
+    font-size: 30px;
+}
+.main-page{
+    margin-left: 260px;
+}
+
+.fas, .fa-solid{
+    font-size: 50px !important;
+}
+
+.container iframe{
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+    margin-bottom: 20px;
+}
