@@ -68,7 +68,7 @@
 	<div id="lokasi">
 		<div class="container">
 
-			<iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3944.8171916248034!2d116.1010010317331!3d-8.613542891397607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x2dcdbf11e16a80b5%3A0xd913b19b0b1c2ec!2sSedot%20Wc%20Lombok%2C%20jln%20bandaseraya%20jempong%20timur%2C%20Jempong%20Baru%2C%20Kec.%20Sekarbela%2C%20Kota%20Mataram%2C%20Nusa%20Tenggara%20Bar.%2083117!3m2!1d-8.613139799999999!2d116.100765!5e0!3m2!1sid!2sid!4v1638613653665!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 	</div>
 
